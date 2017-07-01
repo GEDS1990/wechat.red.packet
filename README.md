@@ -1,4 +1,4 @@
-# wechat.red.packet
+# 微信抢红包神器 Wechat Red packet grab App
 微信抢红包神器
 Wechat Red packet grab App
 
